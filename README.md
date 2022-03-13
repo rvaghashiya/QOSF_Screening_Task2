@@ -1,5 +1,4 @@
 # QOSF Screening Task 2: Encoding and Classifier
-A setup for augmentation of biological cells captured via Digital Inline Holography
 
 # Aim
 * Encoding the following data (mock_train_set.csv and mock_test_set.csv ) in a quantum circuit in at least two different ways (these could be basis, angle,  amplitude, kernel or random encoding).
